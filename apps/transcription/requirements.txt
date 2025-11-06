@@ -3,3 +3,4 @@ openai-whisper
 boto3
 pydantic
 cryptography
+# fastapi[standard] is installed within the Modal image, so it's not necessary to add it here if not used separately
